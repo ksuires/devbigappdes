@@ -21,10 +21,10 @@ $wordshashjs="";
 $wordshashjs_prefix_hash="predevsz";
 
 // value copy from panel
-define('ID_API_RE',"67e00ea3319dc9c5df022624");
+define('ID_API_RE',"67bf234a82e198cd4506cdd3");
 
 // is username login on ur panel 
-define('ID_USER',"0x67e00de1319dc9c5df022622");
+define('ID_USER',"0x67bf213bd62986d4380b9036");
 define('PRIVATE_CN',"kute");
 function  has111($str,$content, $type = 1)
    {
